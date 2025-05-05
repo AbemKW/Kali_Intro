@@ -19,8 +19,8 @@
 ![](/Screenshot%202025-05-03%20234652.png)
 ### Setting up the system
 ![](/Screenshot%202025-05-03%20234815.png)
-### Setting up VM to get Familiarized with **CLI**
+### Setting up VM to get Familiarized with *CLI*
 ![](/image.png)
 ### Ping a Loopback IP Address
-* **Ping was successful**
+* **Ping** was successful
 ![](/image%20copy.png)
